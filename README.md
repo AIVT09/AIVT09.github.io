@@ -8,8 +8,9 @@
     <h1>Travel to Switzerland</h1>
 
    <p>...and you'll get to see these beauties!</p>
-  <img src="![image](https://github.com/user-attachments/assets/29a0b4ab-a65e-49c8-9e42-cf55707d11e9)
-alt= width="200"/>
+  <img src="![image](https://github.com/user-attachments/assets/283513d2-5e91-467d-b8dd-6c644d538aad)"
+ width="200"/>
+ 
  </body>
 </html>
 
